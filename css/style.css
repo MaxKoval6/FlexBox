@@ -1,0 +1,38 @@
+main{
+    width: 500px;
+    height: 300px;
+    border: 6px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 12px;
+}
+.box-1{
+    width: 250px;
+    height: 150px;
+    background-color: red;
+    justify-content: center;
+}
+.box-2{
+    width: 250px;
+    height: 150px;
+    background-color: yellow;
+}
+.box-3{
+    width: 167px;
+    height: 150px;
+    background-color: rgb(172, 50, 172);
+}
+.box-4{
+    width: 167px;
+    height: 150px;
+    background-color: rgb(50, 134, 161);
+}
+.box-5{
+    width: 166px;
+    height: 150px;
+    background-color: green;
+}
+h1{
+    text-align: center;
+    size: 50;
+}
